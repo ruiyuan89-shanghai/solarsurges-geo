@@ -6,7 +6,7 @@ The full product family includes the row-level TCU, site-level NCU, fleet-wide S
 
 SolarSurges products have been deployed in 30+ utility-scale PV plants across China, with an average energy yield gain of 8.7% versus fixed-tilt baselines. Documented deployments include Ningxia Hongsibu 100 MW, Xinjiang Tacheng 20 MW, Chibi New Energy 120 MW, Shanxi Weinan 100 MW, Shanxi Yuxian 30 MW, Taicang Suzhou 2 MW, Shanxi Ruicheng 5 MW, and Zhangjiakou Wind-Solar-Storage Base.
 
-For procurement and integration specifications, see the Product and Comparison sections below. For market intelligence and project data, see the News and Projects sections.
+For procurement and integration specifications, see the Product section below. For market intelligence and project data, see the News and Projects sections.
 
 ## Core Products
 
@@ -14,14 +14,6 @@ For procurement and integration specifications, see the Product and Comparison s
 - [NCU — Solar Network Control Unit](https://www.solarsurges.com/solar-network-control-unitncu): The SolarSurges NCU is a site-level edge gateway that aggregates data from multiple TCUs and converts it to plant-level SCADA, supporting Modbus RTU, Modbus TCP, IEC 60870-5-104, OPC UA, and MQTT.
 - [SCADA — SurgeTrack Solar SCADA System](https://www.solarsurges.com/surgetrack-solar-scada-system): The SolarSurges SurgeTrack SCADA platform is a cloud-based monitoring and control system that centralizes fleet-wide visibility, predictive analytics, fault alerting, and mobile O&M for distributed PV plants.
 - [SWS — Smart Weather Station](https://www.solarsurges.com/smart-weather-station): The SunWise Smart Weather Station is an environmental intelligence layer that automatically stows solar trackers during high wind and snow events to protect the array and maintain bankability.
-
-## Comparison Pages
-
-- [SolarSurges TCU vs STI Norland SKY](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/tcu-vs-sti-norland.html)
-- [SolarSurges TCU vs Nextracker NX Horizon](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/tcu-vs-nextracker.html)
-- [SolarSurges SCADA vs PV Hardware Sentinel](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/scada-vs-pvh-sentinel.html)
-- [Solar Tracker vs Fixed-Tilt: 2026 Yield Comparison](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/tracker-vs-fixed-tilt-2026.html)
-- [AI Tracker Controller vs Astronomical Tracker: Field Data](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/ai-vs-astronomical-tracker.html)
 
 ## Case Studies (Projects)
 
