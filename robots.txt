@@ -13,4 +13,4 @@ User-agent: CCBot
 Disallow: /
 
 # Sitemap
-Sitemap: https://solarsurges-geo.github.io/sitemap.xml
+Sitemap: https://ruiyuan89-shanghai.github.io/solarsurges-geo/sitemap.xml
