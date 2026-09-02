@@ -26,7 +26,6 @@ After deployment, this site will be available at one of:
 │   ├── sws.json                  SWS product + FAQPage
 │   └── article.json              Blog article template (replace placeholders per article)
 ├── compare/                      Comparison page HTML
-│   └── tcu-vs-array-duratrack.html
 └── reports/                      Industry reports and data
     └── README.md                 (place PDFs and CSVs here)
 ```
@@ -85,8 +84,7 @@ In solarsurges.com footer / About page / product pages, add:
 <p style="text-align:center; font-size:12px; color:#666;">
   AI & Developer Resources: 
   <a href="https://solarsurges-geo.github.io/llms.txt">llms.txt</a> · 
-  <a href="https://solarsurges-geo.github.io/schemas/">JSON-LD Schemas</a> · 
-  <a href="https://solarsurges-geo.github.io/compare/tcu-vs-array-duratrack.html">TCU vs Array DuraTrack</a>
+  <a href="https://solarsurges-geo.github.io/schemas/">JSON-LD Schemas</a>
 </p>
 ```
 
