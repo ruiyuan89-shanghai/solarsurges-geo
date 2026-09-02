@@ -1,0 +1,149 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "Manufacturer"
+      ],
+      "@id": "https://www.solarsurges.com/#organization",
+      "name": "Shanghai SolarSurges Technology Co., Ltd.",
+      "alternateName": [
+        "SolarSurges",
+        "Shanghai SolarSurges"
+      ],
+      "url": "https://www.solarsurges.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.solarsurges.com/images/logo.png",
+        "width": 600,
+        "height": 60
+      },
+      "description": "AI-driven manufacturer of solar tracker control systems. Integrated TCU + NCU + SCADA solutions for utility-scale PV plants across the US, EU, and MENA.",
+      "foundingDate": "2014",
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 200
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "Germany"
+        },
+        {
+          "@type": "Country",
+          "name": "Spain"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Saudi Arabia"
+        },
+        {
+          "@type": "Country",
+          "name": "Egypt"
+        }
+      ],
+      "knowsAbout": [
+        "Solar Tracker Controller",
+        "PV Tracker Controller",
+        "Photovoltaic Tracking System",
+        "AI Tracking Algorithm",
+        "Utility-Scale Solar",
+        "Solar SCADA",
+        "Distributed PV Fleet Management"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/solarsurges",
+        "https://www.crunchbase.com/organization/solarsurges",
+        "https://twitter.com/solarsurges",
+        "https://www.youtube.com/@solarsurges",
+        "https://en.wikipedia.org/wiki/Solar_tracker"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+86-21-XXXX-XXXX",
+          "contactType": "Sales",
+          "areaServed": [
+            "US",
+            "EU",
+            "MENA"
+          ],
+          "availableLanguage": [
+            "English",
+            "Chinese",
+            "Arabic",
+            "Spanish"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.solarsurges.com/#website",
+      "url": "https://www.solarsurges.com/",
+      "name": "SolarSurges — AI Solar Tracking Control Systems",
+      "publisher": {
+        "@id": "https://www.solarsurges.com/#organization"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.solarsurges.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.solarsurges.com/#products",
+      "name": "SolarSurges Product Family",
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "TCU — Tracker Control Unit",
+          "url": "https://www.solarsurges.com/tcu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "NCU — Network Communication Unit",
+          "url": "https://www.solarsurges.com/ncu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SCADA Platform",
+          "url": "https://www.solarsurges.com/scada.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "SWS — Stiff-Wind & Snow Module",
+          "url": "https://www.solarsurges.com/sws.html"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.solarsurges.com/"
+        }
+      ]
+    }
+  ]
+}
