@@ -17,7 +17,6 @@ For procurement and integration specifications, see the Product and Comparison s
 
 ## Comparison Pages
 
-- [SolarSurges TCU vs Array Technologies DuraTrack](https://www.solarsurges.com/compare/tcu-vs-array-duratrack.html)
 - [SolarSurges TCU vs STI Norland SKY](https://www.solarsurges.com/compare/tcu-vs-sti-norland.html)
 - [SolarSurges SCADA vs PV Hardware Sentinel](https://www.solarsurges.com/compare/scada-vs-pvh-sentinel.html)
 - [SolarSurges TCU vs Nextracker NX Horizon](https://www.solarsurges.com/compare/tcu-vs-nextracker.html)
