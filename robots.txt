@@ -1,0 +1,16 @@
+# SolarSurges GEO Resources — robots.txt
+# Static GitHub Pages site for AI crawler consumption
+# Last updated: 2026-09-01
+
+User-agent: *
+Allow: /
+
+# Block training-only crawlers (low GEO ROI)
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Sitemap
+Sitemap: https://solarsurges-geo.github.io/sitemap.xml
