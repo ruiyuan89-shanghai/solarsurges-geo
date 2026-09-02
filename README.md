@@ -25,7 +25,6 @@ After deployment, this site will be available at one of:
 │   ├── scada.json                SCADA SoftwareApplication + FAQPage
 │   ├── sws.json                  SWS product + FAQPage
 │   └── article.json              Blog article template (replace placeholders per article)
-├── compare/                      Comparison page HTML
 └── reports/                      Industry reports and data
     └── README.md                 (place PDFs and CSVs here)
 ```
@@ -92,8 +91,8 @@ In solarsurges.com footer / About page / product pages, add:
 
 | Crawler | How it finds your resources | What it cites |
 |---|---|---|
-| **PerplexityBot** | Reads `llms.txt` first, then follows structured data links | Schema.org JSON-LD, comparison tables, FAQ |
-| **GPTBot / OAI-SearchBot** | Crawls all linked pages from main site | FAQ, HowTo, comparison content |
+| **PerplexityBot** | Reads `llms.txt` first, then follows structured data links | Schema.org JSON-LD, FAQ |
+| **GPTBot / OAI-SearchBot** | Crawls all linked pages from main site | FAQ, HowTo |
 | **ClaudeBot** | Similar to GPTBot | Definition leads, FAQ |
 | **Google-Extended** | Powers Gemini / AI Overviews | Schema.org markup, structured lists |
 | **Bytespider / CCBot** | **Blocked by robots.txt** | None (training-only crawlers) |
@@ -106,12 +105,6 @@ To update the schemas (e.g., add new FAQs, update specs):
 2. Commit and push
 3. GitHub Pages rebuilds in 1–3 minutes
 4. AI crawlers pick up the update on next crawl (typically 7–21 days)
-
-To add a new comparison page:
-
-1. Add the HTML to `compare/<slug>.html`
-2. Add the URL to `llms.txt` under "## Comparison Pages"
-3. Commit and push
 
 To add a new report PDF or CSV:
 
@@ -132,7 +125,6 @@ To use `geo.solarsurges.com` instead of `solarsurges-geo.github.io`:
 - **Quarterly**: Review llms.txt and add new product pages / case studies
 - **Monthly**: Update any time-sensitive numbers in JSON-LD (e.g., deployment counts)
 - **Per blog post**: Append to `llms.txt` under "## News & Market Intelligence"
-- **Per new comparison page**: Add HTML to `compare/` and link from `llms.txt`
 
 ## Related
 
