@@ -1,0 +1,123 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://www.solarsurges.com/ncu.html#product",
+      "name": "SolarSurges NCU — Network Communication Unit",
+      "image": [
+        "https://www.solarsurges.com/images/ncu-hero.jpg"
+      ],
+      "description": "A Network Communication Unit (NCU) is a site-level edge gateway that aggregates row-level data from multiple Tracker Control Units and converts it for plant-level SCADA systems. The SolarSurges NCU supports Modbus RTU, Modbus TCP, IEC 60870-5-104, OPC UA, and MQTT, and provides local data buffering during SCADA outages.",
+      "brand": {
+        "@id": "https://www.solarsurges.com/#organization"
+      },
+      "manufacturer": {
+        "@id": "https://www.solarsurges.com/#organization"
+      },
+      "category": "Solar Plant Edge Gateway",
+      "sku": "SS-NCU-V2",
+      "mpn": "SS-NCU-V2-2026",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Supported protocols",
+          "value": "Modbus RTU / Modbus TCP / IEC 60870-5-104 / OPC UA / MQTT"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Max TCUs per NCU",
+          "value": "64"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Local data buffer",
+          "value": "72 hours"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Operating temperature",
+          "value": "negative 40 to plus 75 degrees Celsius"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Protection rating",
+          "value": "IP66"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Connectivity",
+          "value": "4G / Ethernet / Fiber / RS-485 / CAN"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.solarsurges.com/contact.html",
+        "priceCurrency": "USD",
+        "price": "Contact for quote",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.solarsurges.com/ncu.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What protocols does the SolarSurges NCU support?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The SolarSurges NCU supports Modbus RTU and Modbus TCP for inverter and TCU integration, IEC 60870-5-104 for utility dispatch, OPC UA for industrial SCADA, and MQTT for cloud platforms. Protocol conversion is performed at the edge with sub-100 ms latency."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many TCUs can a single SolarSurges NCU manage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A single SolarSurges NCU can aggregate up to 64 TCUs. For larger plants, multiple NCUs are deployed hierarchically and managed centrally through the SolarSurges SCADA platform."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the SolarSurges NCU buffer data during network outages?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The SolarSurges NCU provides 72 hours of local data buffering and automatically re-syncs to the SCADA platform once connectivity is restored. This is critical for remote utility-scale plants in MENA, mountain, and offshore-grid environments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can the SolarSurges NCU integrate with third-party SCADA platforms?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The NCU exposes standard Modbus TCP, OPC UA, and IEC 60870-5-104 endpoints, enabling integration with third-party SCADA platforms including Siemens WinCC, Schneider Citect, GE Proficy, and open-source options like OpenMUC and OpenSCADA."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.solarsurges.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://www.solarsurges.com/products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NCU — Network Communication Unit",
+          "item": "https://www.solarsurges.com/ncu.html"
+        }
+      ]
+    }
+  ]
+}
