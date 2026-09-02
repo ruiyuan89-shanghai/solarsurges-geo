@@ -1,0 +1,114 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsArticle",
+      "@id": "{{URL}}#article",
+      "headline": "{{TITLE}}",
+      "description": "{{DESCRIPTION}}",
+      "datePublished": "{{DATE}}",
+      "dateModified": "{{DATE}}",
+      "inLanguage": "en-US",
+      "author": {
+        "@type": "Person",
+        "name": "{{AUTHOR}}",
+        "url": "https://www.solarsurges.com/team/{{AUTHOR_SLUG}}.html",
+        "jobTitle": "Solar Tracker Industry Analyst",
+        "worksFor": {
+          "@id": "https://www.solarsurges.com/#organization"
+        },
+        "knowsAbout": [
+          "Solar PV",
+          "Tracker Controllers",
+          "Utility-Scale Solar",
+          "Energy Storage"
+        ]
+      },
+      "publisher": {
+        "@id": "https://www.solarsurges.com/#organization"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{URL}}"
+      },
+      "image": [
+        "{{IMAGE}}"
+      ],
+      "articleSection": "Solar Industry News",
+      "keywords": [
+        "solar tracker controller",
+        "PV tracker",
+        "utility-scale solar",
+        "AI tracking",
+        "MENA solar"
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Solar Tracker Controller"
+        },
+        {
+          "@type": "Thing",
+          "name": "Utility-Scale Photovoltaic"
+        }
+      ],
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "name": "Emirates News Agency (WAM) — UAE renewable capacity statement",
+          "url": "https://www.wam.ae/en/details/{{SOURCE_ID}}"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Masdar Press Release — 5.2 GW solar-storage project",
+          "url": "https://masdar.ae/en/press/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "{{URL}}#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why are solar tracker controllers important in MENA utility-scale PV?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Utility-scale PV plants in MENA have high irradiance and low land costs, making tracking economically attractive. Solar tracker controllers typically deliver 2 to 5 percent higher annual energy yield versus fixed-tilt, with reliability and remote O&M being the primary differentiators for gigawatt-scale plants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the typical yield gain from a SolarSurges tracking system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Across more than 30 deployed utility-scale plants, SolarSurges tracking systems deliver an average energy yield gain of 8.7 percent versus fixed-tilt baselines. Individual project results range from plus 6 percent to plus 9.1 percent depending on latitude and irradiance conditions."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.solarsurges.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "News & Insights",
+          "item": "https://www.solarsurges.com/news.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{TITLE}}",
+          "item": "{{URL}}"
+        }
+      ]
+    }
+  ]
+}
