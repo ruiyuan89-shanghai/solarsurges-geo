@@ -47,10 +47,10 @@
         },
         {
           "@type": "Question",
-          "name": "How does the SolarSurges SCADA compare with PV Hardware Sentinel?",
+          "name": "How does the SolarSurges SCADA position against hardware-centric monitoring solutions?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "SolarSurges SCADA is purpose-built for utility-scale plants with 100 MW plus capacity and integrates natively with the SolarSurges TCU and NCU. PV Hardware Sentinel is a hardware-centric monitoring solution with a different architecture. Side-by-side comparison across dashboard latency, alert precision, and O&M cost reduction is available in the SolarSurges comparison report."
+            "text": "SolarSurges SCADA is purpose-built for utility-scale plants with 100 MW plus capacity and integrates natively with the SolarSurges TCU and NCU. It focuses on fleet-wide visibility, predictive analytics, and mobile O&M delivered as a vendor-neutral software platform through open protocols."
           }
         },
         {
