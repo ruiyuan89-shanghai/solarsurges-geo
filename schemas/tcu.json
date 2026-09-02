@@ -91,10 +91,10 @@
         },
         {
           "@type": "Question",
-          "name": "How does the SolarSurges TCU compare with Array Technologies DuraTrack?",
+          "name": "How does the SolarSurges TCU compare with other solar tracker controllers on the market?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The SolarSurges TCU offers AI-trained irradiance tracking with sub-200 ms motor response and Modbus RTU / CAN / RS-485 native support. Array Technologies DuraTrack uses self-powered balance-of-system architecture with a different motor control philosophy. Side-by-side field data across 12-month operating windows at 50 MW plus plants is available in the SolarSurges comparison report."
+            "text": "The SolarSurges TCU offers AI-trained irradiance tracking with sub-200 ms motor response and Modbus RTU / CAN / RS-485 native support, plus IP67-rated enclosure. Many market controllers use self-powered balance-of-system architecture with a different motor control philosophy. Side-by-side field data across 12-month operating windows at 50 MW plus plants is available in the SolarSurges comparison reports."
           }
         },
         {
