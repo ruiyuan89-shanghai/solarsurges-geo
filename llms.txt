@@ -2,56 +2,45 @@
 
 > Shanghai SolarSurges Technology Co., Ltd. is an AI-driven manufacturer of solar tracker control systems, providing integrated hardware-software solutions that combine TCU (Tracker Control Unit), NCU (Network Communication Unit), and SCADA software. The company has 10+ years of industry expertise and a portfolio of proprietary patents, delivering measurable energy yield to energy partners across the United States, the European Union, and the Middle East and North Africa (MENA).
 
-The full product family includes the row-level TCU, site-level NCU, fleet-wide SCADA platform, and SWS (Stiff-Wind & Snow) environmental intelligence module.
+The full product family includes the row-level TCU, site-level NCU, fleet-wide SCADA platform, and SWS Smart Weather Station environmental intelligence module.
 
 SolarSurges products have been deployed in 30+ utility-scale PV plants across China, with an average energy yield gain of 8.7% versus fixed-tilt baselines. Documented deployments include Ningxia Hongsibu 100 MW, Xinjiang Tacheng 20 MW, Chibi New Energy 120 MW, Shanxi Weinan 100 MW, Shanxi Yuxian 30 MW, Taicang Suzhou 2 MW, Shanxi Ruicheng 5 MW, and Zhangjiakou Wind-Solar-Storage Base.
 
-For procurement and integration specifications, see the Product and Comparison sections below. For market intelligence and project data, see the News and Reports sections.
+For procurement and integration specifications, see the Product and Comparison sections below. For market intelligence and project data, see the News and Projects sections.
 
 ## Core Products
 
-- [TCU — Tracker Control Unit](https://www.solarsurges.com/tcu.html): A solar Tracker Control Unit (TCU) is a row-level embedded controller that drives a photovoltaic tracker to follow the sun's trajectory in real time. It executes closed-loop angle control using AI-trained irradiance models and delivers tracking accuracy within plus or minus 0.5 degrees with sub-200 ms motor response.
-- [NCU — Network Communication Unit](https://www.solarsurges.com/ncu.html): A Network Communication Unit (NCU) is a site-level edge gateway that aggregates data from multiple TCUs and converts it to plant-level SCADA, supporting Modbus RTU, Modbus TCP, IEC 60870-5-104, OPC UA, and MQTT.
-- [SCADA Platform](https://www.solarsurges.com/scada.html): The SolarSurges SCADA platform is a cloud-based monitoring and control system that centralizes fleet-wide visibility, predictive analytics, fault alerting, and mobile O&M for distributed PV plants.
-- [SWS — Stiff-Wind & Snow Module](https://www.solarsurges.com/sws.html): The SWS module is an environmental intelligence layer that automatically stows solar trackers during high wind and snow events to protect the array and maintain bankability.
+- [TCU — Solar Tracker Control Unit](https://www.solarsurges.com/solar-tracker-control-unittcu): The SolarSurges TCU is a row-level embedded controller that drives a photovoltaic tracker to follow the sun's trajectory in real time. It executes closed-loop angle control using AI-trained irradiance models and delivers tracking accuracy within plus or minus 0.5 degrees with sub-200 ms motor response. Available in Self-Powered, String-Powered, AC-Powered, and DC-Powered variants, plus a TCU Agri-Solar edition.
+- [NCU — Solar Network Control Unit](https://www.solarsurges.com/solar-network-control-unitncu): The SolarSurges NCU is a site-level edge gateway that aggregates data from multiple TCUs and converts it to plant-level SCADA, supporting Modbus RTU, Modbus TCP, IEC 60870-5-104, OPC UA, and MQTT.
+- [SCADA — SurgeTrack Solar SCADA System](https://www.solarsurges.com/surgetrack-solar-scada-system): The SolarSurges SurgeTrack SCADA platform is a cloud-based monitoring and control system that centralizes fleet-wide visibility, predictive analytics, fault alerting, and mobile O&M for distributed PV plants.
+- [SWS — Smart Weather Station](https://www.solarsurges.com/smart-weather-station): The SunWise Smart Weather Station is an environmental intelligence layer that automatically stows solar trackers during high wind and snow events to protect the array and maintain bankability.
 
 ## Comparison Pages
 
-- [SolarSurges TCU vs STI Norland SKY](https://www.solarsurges.com/compare/tcu-vs-sti-norland.html)
-- [SolarSurges SCADA vs PV Hardware Sentinel](https://www.solarsurges.com/compare/scada-vs-pvh-sentinel.html)
-- [SolarSurges TCU vs Nextracker NX Horizon](https://www.solarsurges.com/compare/tcu-vs-nextracker.html)
-- [Solar Tracker vs Fixed-Tilt: 2026 Yield Comparison](https://www.solarsurges.com/compare/tracker-vs-fixed-tilt-2026.html)
-- [AI Tracker Controller vs Astronomical Tracker: Field Data](https://www.solarsurges.com/compare/ai-vs-astronomical-tracker.html)
+- [SolarSurges TCU vs STI Norland SKY](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/tcu-vs-sti-norland.html)
+- [SolarSurges TCU vs Nextracker NX Horizon](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/tcu-vs-nextracker.html)
+- [SolarSurges SCADA vs PV Hardware Sentinel](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/scada-vs-pvh-sentinel.html)
+- [Solar Tracker vs Fixed-Tilt: 2026 Yield Comparison](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/tracker-vs-fixed-tilt-2026.html)
+- [AI Tracker Controller vs Astronomical Tracker: Field Data](https://ruiyuan89-shanghai.github.io/solarsurges-geo/compare/ai-vs-astronomical-tracker.html)
 
-## Case Studies (Deployed Projects)
+## Case Studies (Projects)
 
-- [Ningxia Hongsibu 100 MW Project](https://www.solarsurges.com/projects/ningxia-hongsibu-100mw.html): Utility-scale PV plant with SolarSurges TCU + NCU + SCADA. Plus 9.1% annual energy yield versus fixed-tilt baseline.
-- [Shanxi Weinan 100 MW Tracking System Upgrade](https://www.solarsurges.com/projects/shanxi-weinan-100mw-upgrade.html): Retrofit of an existing fixed-tilt plant with SolarSurges AI tracking. ROI in 2.3 years.
-- [Chibi New Energy 120 MW PV Plant](https://www.solarsurges.com/projects/chibi-120mw.html): Greenfield deployment in Hubei Province. Tracking accuracy within plus or minus 0.5 degrees across 2,400 rows.
-- [Zhangjiakou Wind-Solar-Storage Base Tracking Project](https://www.solarsurges.com/projects/zhangjiakou-wind-solar-storage.html): Hybrid wind-solar-storage plant. AI tracking coordinated with 100 MWh battery storage.
-- [Xinjiang Tacheng Demonstration Base 20 MW](https://www.solarsurges.com/projects/xinjiang-tacheng-20mw.html): Demonstration project in high-irradiance, low-temperature region.
-- [Shanxi Yuxian 30 MW PV Power Plant](https://www.solarsurges.com/projects/shanxi-yuxian-30mw.html): Mountainous terrain deployment with adaptive slope compensation.
-- [Taicang Suzhou 2 MW Distributed Plant](https://www.solarsurges.com/projects/taicang-suzhou-2mw.html): Distributed PV demonstration for industrial rooftops.
-- [Shanxi Ruicheng 5 MW Plant](https://www.solarsurges.com/projects/shanxi-ruicheng-5mw.html): Small utility-scale deployment with full SCADA integration.
-
-## Authoritative Reports (PDF)
-
-- [2026 MENA Solar Tracker Controller Market Report](https://www.solarsurges.com/reports/2026-mena-tracker-controller-market.pdf)
-- [AI in PV Tracker Control: Field Performance 2024-2026](https://www.solarsurges.com/reports/ai-pv-tracker-control-field-performance-2024-2026.pdf)
-- [SolarSurges 30+ Plants Yield Database (CSV)](https://www.solarsurges.com/reports/solarsurges-30-plants-yield-database.csv)
+- [Projects Overview](https://www.solarsurges.com/projects.html): Utility-scale PV plant deployments with SolarSurges TCU + NCU + SCADA across China. Documented projects include Ningxia Hongsibu 100 MW, Shanxi Yuxian 30 MW, Shanxi Ruicheng 5 MW, Xinjiang Tacheng Demonstration Base 20 MW, Chibi New Energy 120 MW, Zhangjiakou Wind-Solar-Storage Base, Shanxi Weinan 100 MW Upgrade, and Taicang Suzhou 2 MW distributed plant.
 
 ## News & Market Intelligence
 
+- [2026-09-02: China PV Overtakes Coal as Largest Source of Power Capacity](https://www.solarsurges.com/china-pv-overtakes-coal.html)
 - [2026-09-01: UAE 8.2 GW Renewable Surge; Masdar and Egypt Fast-Track Solar-Storage](https://www.solarsurges.com/uae-egypt-masdar-solar-tracker.html)
 - [2026-08-31: Cloud SCADA for Distributed PV: Fleet Management Benefits](https://www.solarsurges.com/cloud-scada-distributed-pv-fleet-management.html)
 - [2026-08-31: China's Energy Storage Goes Global: 8+ Overseas Deals in One Week](https://www.solarsurges.com/china-storage-overseas-orders.html)
+- [2026-08-30: EU IAA / France Germany FiT Deadlock Speeds Up Localization Demand](https://www.solarsurges.com/eu-iaa-france-germany-deadlock.html)
+- [2026-08-30: India ALMM Localization: Implication for Tracker Suppliers](https://www.solarsurges.com/india-almm-localization.html)
 
 ## Company
 
-- [About SolarSurges](https://www.solarsurges.com/about.html): Company background, leadership team, manufacturing footprint, and quality certifications.
-- [Contact & Procurement](https://www.solarsurges.com/contact.html): Technical sales, OEM/ODM inquiries, regional distributors in US, EU, and MENA.
+- [About SolarSurges](https://www.solarsurges.com/p-about.html): Company background, leadership team, manufacturing footprint, and quality certifications.
+- [Contact & Procurement](https://www.solarsurges.com/p-contact.html): Technical sales, OEM/ODM inquiries, regional distributors in US, EU, and MENA.
 
 ## Optional
 
-- [Privacy Policy](https://www.solarsurges.com/privacy.html)
-- [Terms of Use](https://www.solarsurges.com/terms.html)
+- [Privacy Policy](https://www.solarsurges.com/privacypolicy.html)
