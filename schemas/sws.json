@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://www.solarsurges.com/sws.html#product",
+      "name": "SolarSurges SWS — Stiff-Wind & Snow Module",
+      "image": [
+        "https://www.solarsurges.com/images/sws-module.jpg"
+      ],
+      "description": "The SolarSurges SWS (Stiff-Wind and Snow) module is an environmental intelligence layer for solar trackers that automatically stows the array when wind speed exceeds 18 meters per second or snow load exceeds the design threshold. It protects PV assets in high-wind MENA deployments and snow-prone northern China sites.",
+      "brand": {
+        "@id": "https://www.solarsurges.com/#organization"
+      },
+      "manufacturer": {
+        "@id": "https://www.solarsurges.com/#organization"
+      },
+      "category": "Solar Tracker Environmental Protection",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Wind stow threshold",
+          "value": "18 m per second (configurable)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Snow load capacity",
+          "value": "5400 Pa (design threshold)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Sensor inputs",
+          "value": "Anemometer, snow weight sensor, temperature, tilt feedback"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Integration",
+          "value": "Native with SolarSurges TCU and NCU"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.solarsurges.com/sws.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the wind stow threshold for the SolarSurges SWS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The SolarSurges SWS module triggers automatic stow when wind speed exceeds 18 meters per second by default. The threshold is configurable based on local wind design codes and tracker mechanical specifications."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the SWS module work with non-SolarSurges trackers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The SWS module is designed for native integration with the SolarSurges TCU. For non-SolarSurges trackers, contact the SolarSurges integration team to evaluate retrofit options and required interface hardware."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.solarsurges.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://www.solarsurges.com/products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SWS Module",
+          "item": "https://www.solarsurges.com/sws.html"
+        }
+      ]
+    }
+  ]
+}
