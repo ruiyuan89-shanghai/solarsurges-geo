@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.solarsurges.com/scada.html#product",
+      "name": "SolarSurges SCADA Platform",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Solar PV Monitoring and Control",
+      "operatingSystem": "Web-based (Chrome, Firefox, Edge), iOS 14+, Android 9+",
+      "image": [
+        "https://www.solarsurges.com/images/scada-dashboard.jpg"
+      ],
+      "description": "The SolarSurges SCADA platform is a cloud-based monitoring and control system that centralizes fleet-wide visibility, predictive analytics, fault alerting, and mobile O&M for utility-scale and distributed PV plants. It is used to manage 30+ plants across China with an average 8.7 percent yield gain versus fixed-tilt.",
+      "brand": {
+        "@id": "https://www.solarsurges.com/#organization"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.solarsurges.com/contact.html",
+        "priceCurrency": "USD",
+        "price": "Contact for quote",
+        "availability": "https://schema.org/InStock"
+      },
+      "featureList": [
+        "Real-time fleet dashboard",
+        "Predictive maintenance alerts",
+        "Mobile O&M app (iOS and Android)",
+        "Multi-plant comparison",
+        "Energy yield analytics",
+        "Fault root-cause diagnostics",
+        "Role-based access control",
+        "API access (REST and GraphQL)"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.solarsurges.com/scada.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is cloud-based SCADA for distributed PV?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cloud-based SCADA for distributed PV is a centralized monitoring and control platform that aggregates data from geographically separated PV plants into a single fleet-wide dashboard. It eliminates the need for on-site IT infrastructure at each plant and supports predictive analytics, mobile O&M, and remote fault diagnostics from any browser or mobile device."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the SolarSurges SCADA compare with PV Hardware Sentinel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "SolarSurges SCADA is purpose-built for utility-scale plants with 100 MW plus capacity and integrates natively with the SolarSurges TCU and NCU. PV Hardware Sentinel is a hardware-centric monitoring solution with a different architecture. Side-by-side comparison across dashboard latency, alert precision, and O&M cost reduction is available in the SolarSurges comparison report."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can SolarSurges SCADA integrate with third-party inverters and meters?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. SolarSurges SCADA integrates with Sungrow, Huawei, Sineng, FIMER, SMA, and other major inverters via Modbus TCP and IEC 60870-5-104. Revenue-grade meters, weather stations, and pyranometers are supported through the same open protocol framework."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is SolarSurges SCADA available as a mobile app?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. SolarSurges SCADA includes native iOS and Android apps for O&M teams, with offline mode for sites with intermittent connectivity and push-to-talk coordination between field technicians and the central control room."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.solarsurges.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://www.solarsurges.com/products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SCADA Platform",
+          "item": "https://www.solarsurges.com/scada.html"
+        }
+      ]
+    }
+  ]
+}
