@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SolarSurges — AI Resources & Machine-Readable Data</title>
-<meta name="description" content="AI crawler guide, JSON-LD schemas, comparison pages, and field data for SolarSurges solar tracker control systems (TCU, NCU, SCADA, SWS).">
+<meta name="description" content="AI crawler guide, JSON-LD schemas, and field data for SolarSurges solar tracker control systems (TCU, NCU, SCADA, SWS).">
 <link rel="alternate" type="text/plain" href="llms.txt" title="llms.txt — AI Crawler Guide">
 <script type="application/ld+json">
 {
@@ -57,7 +57,7 @@ footer{margin-top:60px;padding-top:20px;border-top:1px solid var(--line);font-si
 <header>
   <span class="tag">MACHINE-READABLE RESOURCES</span>
   <h1>SolarSurges — AI Resources</h1>
-  <div class="sub">This page provides structured data, comparison pages, and field reports for AI search engines, developers, and integration partners. Maintained by Shanghai SolarSurges Technology Co., Ltd. — last updated 2026-09-01.</div>
+  <div class="sub">This page provides structured data and field reports for AI search engines, developers, and integration partners. Maintained by Shanghai SolarSurges Technology Co., Ltd. — last updated 2026-09-02.</div>
 </header>
 
 <div class="kpi">
@@ -98,33 +98,6 @@ footer{margin-top:60px;padding-top:20px;border-top:1px solid var(--line);font-si
     document.head.appendChild(s);
   });</code></pre>
 
-<h2>Comparison Pages</h2>
-
-<div class="card">
-  <h3><a href="compare/tcu-vs-sti-norland.html">SolarSurges TCU vs STI Norland SKY</a></h3>
-  <p>Side-by-side comparison across six dimensions: tracking accuracy, motor response time, communication protocols, field warranty, ROI period, and third-party SCADA integration.</p>
-</div>
-
-<div class="card">
-  <h3><a href="compare/tcu-vs-nextracker.html">SolarSurges TCU vs Nextracker NX Horizon</a></h3>
-  <p>Comparison of the SolarSurges TCU and Nextracker NX Horizon across control architecture, motor response time, communication protocols, wind protection, and ROI period.</p>
-</div>
-
-<div class="card">
-  <h3><a href="compare/scada-vs-pvh-sentinel.html">SolarSurges SCADA vs PV Hardware Sentinel</a></h3>
-  <p>Comparison of the SolarSurges cloud SCADA platform and the PV Hardware Sentinel monitoring solution across architecture, alarm precision, mobile O&amp;M, and multi-plant fleet features.</p>
-</div>
-
-<div class="card">
-  <h3><a href="compare/tracker-vs-fixed-tilt-2026.html">Solar Tracker vs Fixed-Tilt: 2026 Yield Comparison</a></h3>
-  <p>Unified 2026 field comparison of single-axis trackers and fixed-tilt mounting systems, covering yield gain, ROI, land use, CAPEX, and O&amp;M complexity.</p>
-</div>
-
-<div class="card">
-  <h3><a href="compare/ai-vs-astronomical-tracker.html">AI Tracker Controller vs Astronomical Tracker: Field Data</a></h3>
-  <p>Data-driven comparison of AI-trained irradiance tracking controllers and conventional astronomical trackers, based on 2024–2026 field data from complex-terrain and high-shading sites.</p>
-</div>
-
 <h2>Field Data &amp; Reports</h2>
 
 <p>Primary-source field data is the strongest signal for AI citation. Place PDFs and CSVs in <code>reports/</code>:</p>
@@ -144,8 +117,8 @@ footer{margin-top:60px;padding-top:20px;border-top:1px solid var(--line);font-si
 
 <table>
 <tr><th>Crawler</th><th>Behavior</th><th>Citation Source</th></tr>
-<tr><td>PerplexityBot</td><td>Reads llms.txt first</td><td>JSON-LD, comparison tables, FAQ</td></tr>
-<tr><td>GPTBot / OAI-SearchBot</td><td>Crawls all linked pages</td><td>FAQ, HowTo, comparison content</td></tr>
+<tr><td>PerplexityBot</td><td>Reads llms.txt first</td><td>JSON-LD, FAQ</td></tr>
+<tr><td>GPTBot / OAI-SearchBot</td><td>Crawls all linked pages</td><td>FAQ, HowTo</td></tr>
 <tr><td>ClaudeBot</td><td>Similar to GPTBot</td><td>Definition leads, FAQ</td></tr>
 <tr><td>Google-Extended</td><td>Powers Gemini / AI Overviews</td><td>Schema.org markup</td></tr>
 <tr><td>Bytespider / CCBot</td><td>Blocked by robots.txt</td><td>None (training-only crawlers)</td></tr>
