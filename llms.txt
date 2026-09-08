@@ -21,7 +21,6 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
-- [2026-09-07: Africa's Solar Market Blossoms: Kenya Hybrid Project, Tanzania Duty-Free Push and a $1.2 Billion Zimbabwean Bet](https://www.solarsurges.com/africa-solar-tracker-boom.html)
 - [2026-09-03: China PV Module Export Prices Back Above RMB 1/W; One-Third of India's 140 Module Plants Shut](https://www.solarsurges.com/pv-export-price-hike-india.html)
 - [2026-09-02: Historic Milestone: China's Solar PV Installed Capacity Overtakes Coal for the First Time](https://www.solarsurges.com/china-pv-overtakes-coal.html)
 - [2026-09-01: UAE Renewable Energy Surges 63-Fold; Masdar and Egypt Fast-Track Solar-Storage](https://www.solarsurges.com/uae-egypt-masdar-solar-tracker.html)
@@ -61,7 +60,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 38
+# COUNT: 37
 
 ## Company
 
