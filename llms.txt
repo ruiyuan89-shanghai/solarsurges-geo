@@ -62,6 +62,10 @@ For procurement and integration specifications, see the Product section below. F
 
 # COUNT: 37
 
+## 中文新闻
+
+- [2026-09-08: 欧洲逆变器产能破100GWac：SMA与Power Electronics领跑，"三管齐下"筑高欧洲制造壁垒](https://cn.solarsurges.com/news_articles276.html)
+
 ## Company
 
 - [About SolarSurges](https://www.solarsurges.com/p-about.html): Company background, leadership team, manufacturing footprint, and quality certifications.
