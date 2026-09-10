@@ -66,6 +66,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 40
 
 ## 中文新闻
+- [2026-09-10: 美国232关税现"回旋镖"：Wacker田纳西多晶硅工厂告急，不区分原产地的设计反伤本土产能](https://cn.solarsurges.com/news_articles278.html)
 - [2026-09-09: 法国首例！横店东磁4款组件被取消5.5%优惠增值税：碳足迹成出海"硬门槛"](https://cn.solarsurges.com/news_articles277.html)
 
 - [2026-09-08: 欧洲逆变器产能破100GWac：SMA与Power Electronics领跑，"三管齐下"筑高欧洲制造壁垒](https://cn.solarsurges.com/news_articles276.html)
