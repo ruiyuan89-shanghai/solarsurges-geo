@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-09-10: US Section 232 Tariff Boomerang: Wacker's Tennessee Polysilicon Plant in Peril — Origin-Blind Rules Hit American Capacity First](https://www.solarsurges.com/us-232-wacker-boomerang.html)
 - [2026-09-09: France Revokes 5.5% VAT Break for Four DMEGC Solar Modules: Carbon Footprint Is Now a Hard Market-Access Gate](https://www.solarsurges.com/france-carbon-vat-enforcement.html)
 - [2026-09-08: Europe's Inverter Capacity Exceeds 100GWac: A Triple-Layered Made-in-Europe Push Reshapes the Solar Market](https://www.solarsurges.com/europe-inverter-100gw.html)
 - [2026-09-07: Africa's Solar Market Blossoms: Kenya Hybrid Project, Tanzania Duty-Free Push and a $1.2 Billion Zimbabwean Bet](https://www.solarsurges.com/africa-solar-tracker-boom.html)
@@ -63,7 +64,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 40
+# COUNT: 41
 
 ## 中文新闻
 - [2026-09-10: 美国232关税现"回旋镖"：Wacker田纳西多晶硅工厂告急，不区分原产地的设计反伤本土产能](https://cn.solarsurges.com/news_articles278.html)
