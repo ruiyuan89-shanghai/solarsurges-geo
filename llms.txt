@@ -67,6 +67,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 41
 
 ## 中文新闻
+- [2026-09-11: 欧洲太阳能十年增长首现拐点：2025年新增65.1GW、同比下滑0.7%，电网成真正瓶颈](https://cn.solarsurges.com/news_articles279.html)
 - [2026-09-10: 美国232关税现"回旋镖"：Wacker田纳西多晶硅工厂告急，不区分原产地的设计反伤本土产能](https://cn.solarsurges.com/news_articles278.html)
 - [2026-09-09: 法国首例！横店东磁4款组件被取消5.5%优惠增值税：碳足迹成出海"硬门槛"](https://cn.solarsurges.com/news_articles277.html)
 
