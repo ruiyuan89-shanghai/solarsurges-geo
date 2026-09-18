@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-09-18: UAE's 5.2 GW / 19 GWh Round-the-Clock Solar-Storage Project: BYD Wins 11.275 GWh BESS Order, Solar Tracker Controllers Become the Yield Levers](https://www.solarsurges.com/uae-rtc-5gw-19gwh-byd-storage.html)
 - [2026-09-17: US Solar AD/CVD Expansion Finalized: India, Indonesia, Laos Duties Up to 173.7%, ITC Injury Vote Due October 14](https://www.solarsurges.com/us-solar-adcvd-india-indonesia-laos.html)
 - [2026-09-11: EU Solar Logs First Annual Decline Since 2016: 65.1 GW in 2025, Down 0.7% — the Grid Is the Real Bottleneck](https://www.solarsurges.com/eu-solar-2025-first-decline.html)
 - [2026-09-10: US Section 232 Tariff Boomerang: Wacker's Tennessee Polysilicon Plant in Peril — Origin-Blind Rules Hit American Capacity First](https://www.solarsurges.com/us-232-wacker-boomerang.html)
@@ -66,7 +67,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 43
+# COUNT: 44
 
 ## 中文新闻
 - [2026-09-18: 阿联酋 5.2GW/19GWh 全天候光储项目全貌：比亚迪获 11.275GWh 储能大单，光伏跟踪控制器成吉瓦级电站收益关键](https://cn.solarsurges.com/news_articles281.html)
