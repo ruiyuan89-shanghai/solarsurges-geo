@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-09-21: Brazil Solar Module Imports Plunge 48% in H1 2026: Curtailment Freezes Utility-Scale Demand, First BESS Auction Opens a New Variable](https://www.solarsurges.com/brazil-solar-imports-curtailment.html)
 - [2026-09-18: UAE's 5.2 GW / 19 GWh Round-the-Clock Solar-Storage Project: BYD Wins 11.275 GWh BESS Order, Solar Tracker Controllers Become the Yield Levers](https://www.solarsurges.com/uae-rtc-5gw-19gwh-byd-storage.html)
 - [2026-09-17: US Solar AD/CVD Expansion Finalized: India, Indonesia, Laos Duties Up to 173.7%, ITC Injury Vote Due October 14](https://www.solarsurges.com/us-solar-adcvd-india-indonesia-laos.html)
 - [2026-09-11: EU Solar Logs First Annual Decline Since 2016: 65.1 GW in 2025, Down 0.7% — the Grid Is the Real Bottleneck](https://www.solarsurges.com/eu-solar-2025-first-decline.html)
@@ -67,7 +68,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 44
+# COUNT: 45
 
 ## 中文新闻
 - [2026-09-21: 巴西上半年光伏组件进口骤降 48%：弃光冻结集中式需求，首次储能拍卖打开新变量](https://cn.solarsurges.com/news_articles282.html)
