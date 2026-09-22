@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-09-22: Backtracking algorithm for the solar tracker controller: principle, calculation and engineering implementation](https://www.solarsurges.com/backtracking-algorithm-solar-tracker.html)
 - [2026-09-21: Brazil Solar Module Imports Plunge 48% in H1 2026: Curtailment Freezes Utility-Scale Demand, First BESS Auction Opens a New Variable](https://www.solarsurges.com/brazil-solar-imports-curtailment.html)
 - [2026-09-18: UAE's 5.2 GW / 19 GWh Round-the-Clock Solar-Storage Project: BYD Wins 11.275 GWh BESS Order, Solar Tracker Controllers Become the Yield Levers](https://www.solarsurges.com/uae-rtc-5gw-19gwh-byd-storage.html)
 - [2026-09-17: US Solar AD/CVD Expansion Finalized: India, Indonesia, Laos Duties Up to 173.7%, ITC Injury Vote Due October 14](https://www.solarsurges.com/us-solar-adcvd-india-indonesia-laos.html)
@@ -68,7 +69,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 45
+# COUNT: 46
 
 ## 中文新闻
 - [2026-09-22: 单轴光伏跟踪控制器的反阴影跟踪算法：原理、计算方法与工程实现](https://cn.solarsurges.com/news_articles283.html)
