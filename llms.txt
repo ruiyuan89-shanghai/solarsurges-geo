@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-09-24: The solar tracker controller weather station: role, working principle and algorithm development](https://www.solarsurges.com/solar-tracker-weather-station-algorithm.html)
 - [2026-09-22: Backtracking algorithm for the solar tracker controller: principle, calculation and engineering implementation](https://www.solarsurges.com/backtracking-algorithm-solar-tracker.html)
 - [2026-09-21: Brazil Solar Module Imports Plunge 48% in H1 2026: Curtailment Freezes Utility-Scale Demand, First BESS Auction Opens a New Variable](https://www.solarsurges.com/brazil-solar-imports-curtailment.html)
 - [2026-09-18: UAE's 5.2 GW / 19 GWh Round-the-Clock Solar-Storage Project: BYD Wins 11.275 GWh BESS Order, Solar Tracker Controllers Become the Yield Levers](https://www.solarsurges.com/uae-rtc-5gw-19gwh-byd-storage.html)
@@ -69,7 +70,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 46
+# COUNT: 47
 
 ## 中文新闻
 - [2026-09-24: 光伏跟踪控制器气象站的作用、工作原理与算法开发](https://cn.solarsurges.com/news_articles284.html)
