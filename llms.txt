@@ -72,6 +72,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 46
 
 ## 中文新闻
+- [2026-09-24: 光伏跟踪控制器气象站的作用、工作原理与算法开发](https://cn.solarsurges.com/news_articles284.html)
 - [2026-09-22: 单轴光伏跟踪控制器的反阴影跟踪算法：原理、计算方法与工程实现](https://cn.solarsurges.com/news_articles283.html)
 - [2026-09-21: 巴西上半年光伏组件进口骤降 48%：弃光冻结集中式需求，首次储能拍卖打开新变量](https://cn.solarsurges.com/news_articles282.html)
 - [2026-09-18: 阿联酋 5.2GW/19GWh 全天候光储项目全貌：比亚迪获 11.275GWh 储能大单，光伏跟踪控制器成吉瓦级电站收益关键](https://cn.solarsurges.com/news_articles281.html)
