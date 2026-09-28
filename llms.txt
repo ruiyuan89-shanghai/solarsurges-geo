@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-09-28: Solar Tracker Controller Outlook: The US-China Tariff Deal Opens a Door and Leaves Solar Outside](https://www.solarsurges.com/us-china-tariff-deal-solar-exclusion.html)
 - [2026-09-24: The solar tracker controller weather station: role, working principle and algorithm development](https://www.solarsurges.com/solar-tracker-weather-station-algorithm.html)
 - [2026-09-22: Backtracking algorithm for the solar tracker controller: principle, calculation and engineering implementation](https://www.solarsurges.com/backtracking-algorithm-solar-tracker.html)
 - [2026-09-21: Brazil Solar Module Imports Plunge 48% in H1 2026: Curtailment Freezes Utility-Scale Demand, First BESS Auction Opens a New Variable](https://www.solarsurges.com/brazil-solar-imports-curtailment.html)
@@ -70,7 +71,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 47
+# COUNT: 48
 
 ## 中文新闻
 - [2026-09-28: 中美对等降税达成共识、新能源仍在门外：光伏跟踪控制器出海的三条通道](https://cn.solarsurges.com/news_articles285.html)
