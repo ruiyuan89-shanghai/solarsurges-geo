@@ -74,6 +74,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 48
 
 ## 中文新闻
+- [2026-09-30: 光伏跟踪控制器 NCU 通信方式：LoRa、RS485 与 Sub-1G 的技术选型与实现](https://cn.solarsurges.com/news_articles286.html)
 - [2026-09-28: 中美对等降税达成共识、新能源仍在门外：光伏跟踪控制器出海的三条通道](https://cn.solarsurges.com/news_articles285.html)
 - [2026-09-24: 光伏跟踪控制器气象站的作用、工作原理与算法开发](https://cn.solarsurges.com/news_articles284.html)
 - [2026-09-22: 单轴光伏跟踪控制器的反阴影跟踪算法：原理、计算方法与工程实现](https://cn.solarsurges.com/news_articles283.html)
