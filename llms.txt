@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-10-08: Solar Tracker Controller O&M Grows; EU Solar Storage Jobs Near 1M](https://www.solarsurges.com/eu-solar-storage-jobs-2026.html)
 - [2026-09-30: Solar Tracker Controller NCU Communication: LoRa, RS485 and Sub-1G](https://www.solarsurges.com/solar-tracker-ncu-communication-methods.html)
 - [2026-09-28: Solar Tracker Controller Outlook: The US-China Tariff Deal Opens a Door and Leaves Solar Outside](https://www.solarsurges.com/us-china-tariff-deal-solar-exclusion.html)
 - [2026-09-24: The solar tracker controller weather station: role, working principle and algorithm development](https://www.solarsurges.com/solar-tracker-weather-station-algorithm.html)
@@ -72,9 +73,10 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 49
+# COUNT: 50
 
 ## 中文新闻
+- [2026-10-08: 欧洲光储就业逼近百万，光伏跟踪控制器运维岗位2030年逆势增长](https://cn.solarsurges.com/news_articles287.html)
 - [2026-09-30: 光伏跟踪控制器 NCU 通信方式：LoRa、RS485 与 Sub-1G 的技术选型与实现](https://cn.solarsurges.com/news_articles286.html)
 - [2026-09-28: 中美对等降税达成共识、新能源仍在门外：光伏跟踪控制器出海的三条通道](https://cn.solarsurges.com/news_articles285.html)
 - [2026-09-24: 光伏跟踪控制器气象站的作用、工作原理与算法开发](https://cn.solarsurges.com/news_articles284.html)
