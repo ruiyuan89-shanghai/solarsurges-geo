@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-10-09: EU IAA Rejection Bid: Solar Tracker Controller Sourcing Rules at Risk](https://www.solarsurges.com/eu-iaa-rejection-amendment-solar-tracker.html)
 - [2026-10-08: Solar Tracker Controller O&M Grows; EU Solar Storage Jobs Near 1M](https://www.solarsurges.com/eu-solar-storage-jobs-2026.html)
 - [2026-09-30: Solar Tracker Controller NCU Communication: LoRa, RS485 and Sub-1G](https://www.solarsurges.com/solar-tracker-ncu-communication-methods.html)
 - [2026-09-28: Solar Tracker Controller Outlook: The US-China Tariff Deal Opens a Door and Leaves Solar Outside](https://www.solarsurges.com/us-china-tariff-deal-solar-exclusion.html)
@@ -73,7 +74,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 50
+# COUNT: 51
 
 ## 中文新闻
 - [2026-10-09: 欧盟工业加速器法案否决动议：光伏跟踪控制器入欧规则生变](https://cn.solarsurges.com/news_articles288.html)
