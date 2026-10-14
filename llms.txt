@@ -78,6 +78,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 52
 
 ## 中文新闻
+- [2026-10-14: 光伏跟踪控制器 SCADA：架构与并网功能](https://cn.solarsurges.com/news_articles290.html)
 - [2026-10-12: 美国串联太阳能电池接近商业化：光伏跟踪控制器如何放大25%增益](https://cn.solarsurges.com/news_articles289.html)
 - [2026-10-09: 欧盟工业加速器法案否决动议：光伏跟踪控制器入欧规则生变](https://cn.solarsurges.com/news_articles288.html)
 - [2026-10-08: 欧洲光储就业逼近百万，光伏跟踪控制器运维岗位2030年逆势增长](https://cn.solarsurges.com/news_articles287.html)
