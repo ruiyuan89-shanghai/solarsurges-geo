@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-10-16: Solar Tracker Controller: Wafer and Cell Prices Flat, Modules Soften](https://www.solarsurges.com/wafer-cell-flat-module-discount-tracker.html)
 - [2026-10-15: Solar Tracker Controller Rules: EU Pushes Full-Chain Made in Europe](https://www.solarsurges.com/eu-iaa-full-value-chain-solar-tracker.html)
 - [2026-10-14: Solar Tracker Controller SCADA: Architecture and Grid Compliance](https://www.solarsurges.com/solar-tracker-scada-monitoring-platform.html)
 - [2026-10-12: US Tandem Solar Cells Near Market: Solar Tracker Controller Impact](https://www.solarsurges.com/us-tandem-solar-cells-tracker-controller.html)
@@ -77,7 +78,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 54
+# COUNT: 55
 
 ## 中文新闻
 - [2026-10-16: 光伏跟踪控制器：硅片电池片价格持稳、组件成交暗降](https://cn.solarsurges.com/news_articles292.html)
