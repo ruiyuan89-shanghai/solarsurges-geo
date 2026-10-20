@@ -81,6 +81,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 55
 
 ## 中文新闻
+- [2026-10-20: 12项光伏技术拟列出口管制：光伏跟踪控制器与太阳能跟踪控制器出海新课题](https://cn.solarsurges.com/news_articles293.html)
 - [2026-10-16: 光伏跟踪控制器：硅片电池片价格持稳、组件成交暗降](https://cn.solarsurges.com/news_articles292.html)
 - [2026-10-15: 35家欧洲光伏企业联名要求IAA全链本土化：光伏跟踪控制器入欧门槛收紧](https://cn.solarsurges.com/news_articles291.html)
 - [2026-10-14: 光伏跟踪控制器 SCADA：架构与并网功能](https://cn.solarsurges.com/news_articles290.html)
