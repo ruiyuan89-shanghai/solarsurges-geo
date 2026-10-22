@@ -83,6 +83,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 57
 
 ## 中文新闻
+- [2026-10-22: 光伏跟踪控制器常见故障：成因、诊断与预防](https://cn.solarsurges.com/news_articles295.html)
 - [2026-10-21: 加拿大终止对华光伏双反：光伏跟踪控制器与太阳能跟踪控制器关税归零](https://cn.solarsurges.com/news_articles294.html)
 - [2026-10-20: 12项光伏技术拟列出口管制：光伏跟踪控制器与太阳能跟踪控制器出海新课题](https://cn.solarsurges.com/news_articles293.html)
 - [2026-10-16: 光伏跟踪控制器：硅片电池片价格持稳、组件成交暗降](https://cn.solarsurges.com/news_articles292.html)
