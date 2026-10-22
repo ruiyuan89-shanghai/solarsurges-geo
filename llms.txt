@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-10-22: Solar Tracker Controller Faults: Causes, Diagnosis and Prevention](https://www.solarsurges.com/solar-tracker-fault-diagnosis.html)
 - [2026-10-21: Canada Ends China PV Duties: Solar Tracker Controller Window](https://www.solarsurges.com/canada-ends-china-pv-duties-solar-tracker.html)
 - [2026-10-20: China PV Export Control: 12 Technologies, Solar Tracker Compliance](https://www.solarsurges.com/china-pv-export-control-solar-tracker.html)
 - [2026-10-16: Solar Tracker Controller: Wafer and Cell Prices Flat, Modules Soften](https://www.solarsurges.com/wafer-cell-flat-module-discount-tracker.html)
@@ -80,7 +81,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 57
+# COUNT: 58
 
 ## 中文新闻
 - [2026-10-22: 光伏跟踪控制器常见故障：成因、诊断与预防](https://cn.solarsurges.com/news_articles295.html)
