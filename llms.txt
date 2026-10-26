@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-10-26: Solar Tracker Controller: EU IAA Local-Content Timetable](https://www.solarsurges.com/eu-iaa-made-in-eu-phase-in-tracker.html)
 - [2026-10-23: EU Repeals Solar Glass Duties: Solar Tracker Controller Impact](https://www.solarsurges.com/eu-solar-glass-duties-repealed-tracker.html)
 - [2026-10-22: Solar Tracker Controller Faults: Causes, Diagnosis and Prevention](https://www.solarsurges.com/solar-tracker-fault-diagnosis.html)
 - [2026-10-21: Canada Ends China PV Duties: Solar Tracker Controller Window](https://www.solarsurges.com/canada-ends-china-pv-duties-solar-tracker.html)
@@ -82,7 +83,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 59
+# COUNT: 60
 
 ## 中文新闻
 - [2026-10-23: 欧盟终止对华太阳能玻璃双反：光伏跟踪控制器成本重估](https://cn.solarsurges.com/news_articles296.html)
