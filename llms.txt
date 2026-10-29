@@ -87,6 +87,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 61
 
 ## 中文新闻
+- [2026-10-29: 光伏跟踪控制器：欧盟 IAA 五千条修正案与 12 月 1 日表决](https://cn.solarsurges.com/news_articles298.html)
 - [2026-10-26: 光伏跟踪控制器：欧盟IAA本地化时间表与三年节点](https://cn.solarsurges.com/news_articles297.html)
 - [2026-10-23: 欧盟终止对华太阳能玻璃双反：光伏跟踪控制器成本重估](https://cn.solarsurges.com/news_articles296.html)
 - [2026-10-22: 光伏跟踪控制器常见故障：成因、诊断与预防](https://cn.solarsurges.com/news_articles295.html)
