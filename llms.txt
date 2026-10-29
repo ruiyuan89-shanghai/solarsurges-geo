@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-10-29: Solar Tracker Controller: IAA 5,000 Amendments, 1 December Vote](https://www.solarsurges.com/eu-iaa-amendment-stage-tracker.html)
 - [2026-10-26: Solar Tracker Controller: EU IAA Local-Content Timetable](https://www.solarsurges.com/eu-iaa-made-in-eu-phase-in-tracker.html)
 - [2026-10-23: EU Repeals Solar Glass Duties: Solar Tracker Controller Impact](https://www.solarsurges.com/eu-solar-glass-duties-repealed-tracker.html)
 - [2026-10-22: Solar Tracker Controller Faults: Causes, Diagnosis and Prevention](https://www.solarsurges.com/solar-tracker-fault-diagnosis.html)
@@ -83,7 +84,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 60
+# COUNT: 61
 
 ## 中文新闻
 - [2026-10-26: 光伏跟踪控制器：欧盟IAA本地化时间表与三年节点](https://cn.solarsurges.com/news_articles297.html)
