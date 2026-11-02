@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-11-02: US Section 232: Rush Window, Long Wait for Solar Tracker Controller](https://www.solarsurges.com/us-232-solar-window-tracker.html)
 - [2026-10-30: Solar Tracker Controller TCU: Angle Solving and Closed-Loop Control](https://www.solarsurges.com/solar-tracker-tcu-angle-algorithm.html)
 - [2026-10-29: Solar Tracker Controller: IAA 5,000 Amendments, 1 December Vote](https://www.solarsurges.com/eu-iaa-amendment-stage-tracker.html)
 - [2026-10-26: Solar Tracker Controller: EU IAA Local-Content Timetable](https://www.solarsurges.com/eu-iaa-made-in-eu-phase-in-tracker.html)
@@ -85,7 +86,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 62
+# COUNT: 63
 
 ## 中文新闻
 - [2026-10-30: 光伏跟踪控制器 TCU 算法：跟踪角解算与闭环修正](https://cn.solarsurges.com/news_articles299.html)
