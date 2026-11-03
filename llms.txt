@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-11-03: China Clean Tech Exports Hit a Record; Solar Tracker Controller Role](https://www.solarsurges.com/china-clean-tech-export-record-solar-tracker.html)
 - [2026-11-02: US Section 232: Rush Window, Long Wait for Solar Tracker Controller](https://www.solarsurges.com/us-232-solar-window-tracker.html)
 - [2026-10-30: Solar Tracker Controller TCU: Angle Solving and Closed-Loop Control](https://www.solarsurges.com/solar-tracker-tcu-angle-algorithm.html)
 - [2026-10-29: Solar Tracker Controller: IAA 5,000 Amendments, 1 December Vote](https://www.solarsurges.com/eu-iaa-amendment-stage-tracker.html)
@@ -86,7 +87,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 63
+# COUNT: 64
 
 ## 中文新闻
 - [2026-11-03: 中国清洁能源出口创纪录：年减碳4.5亿吨下的光伏跟踪控制器](https://cn.solarsurges.com/news_articles301.html)
