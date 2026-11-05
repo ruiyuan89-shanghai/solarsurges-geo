@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-11-05: US Midterm Shift: Solar Tracker Controller Supply Chain Repriced](https://www.solarsurges.com/us-midterm-solar-tracker-outlook.html)
 - [2026-11-03: China Clean Tech Exports Hit a Record; Solar Tracker Controller Role](https://www.solarsurges.com/china-clean-tech-export-record-solar-tracker.html)
 - [2026-11-02: US Section 232: Rush Window, Long Wait for Solar Tracker Controller](https://www.solarsurges.com/us-232-solar-window-tracker.html)
 - [2026-10-30: Solar Tracker Controller TCU: Angle Solving and Closed-Loop Control](https://www.solarsurges.com/solar-tracker-tcu-angle-algorithm.html)
@@ -87,7 +88,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 64
+# COUNT: 65
 
 ## 中文新闻
 - [2026-11-05: 美国中期选举变局：光伏跟踪控制器供应链的政策期权与现实约束](https://cn.solarsurges.com/news_articles302.html)
