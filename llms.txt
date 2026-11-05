@@ -90,6 +90,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 64
 
 ## 中文新闻
+- [2026-11-05: 美国中期选举变局：光伏跟踪控制器供应链的政策期权与现实约束](https://cn.solarsurges.com/news_articles302.html)
 - [2026-11-03: 中国清洁能源出口创纪录：年减碳4.5亿吨下的光伏跟踪控制器](https://cn.solarsurges.com/news_articles301.html)
 - [2026-11-02: 美国232大限：抢装窗口与长期观望下的光伏跟踪控制器](https://cn.solarsurges.com/news_articles300.html)
 - [2026-10-30: 光伏跟踪控制器 TCU 算法：跟踪角解算与闭环修正](https://cn.solarsurges.com/news_articles299.html)
