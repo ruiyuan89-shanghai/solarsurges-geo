@@ -21,6 +21,8 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-11-10: Solar Tracker Controller: Two-Month Truce Boundaries and Blind Spots](https://www.solarsurges.com/china-us-tariff-truce-two-month-window-tracker.html)
+- [2026-11-09: Solar Tracker Controller: 300% Tariff Threat and Congress Trade Power](https://www.solarsurges.com/us-tariff-300-congress-trade-power-tracker.html)
 - [2026-11-06: Solar Tracker Controller Costs Rise as AI Squeezes Power Chips](https://www.solarsurges.com/ai-chip-squeeze-inverter-price-tracker.html)
 - [2026-11-05: US Midterm Shift: Solar Tracker Controller Supply Chain Repriced](https://www.solarsurges.com/us-midterm-solar-tracker-outlook.html)
 - [2026-11-03: China Clean Tech Exports Hit a Record; Solar Tracker Controller Role](https://www.solarsurges.com/china-clean-tech-export-record-solar-tracker.html)
@@ -89,9 +91,11 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 66
+# COUNT: 68
 
 ## 中文新闻
+- [2026-11-10: 光伏跟踪控制器：中美休战两个月的边界与三个盲区](https://cn.solarsurges.com/news_articles305.html)
+- [2026-11-09: 光伏跟踪控制器：300%关税威胁与国会贸易权之争](https://cn.solarsurges.com/news_articles304.html)
 - [2026-11-06: 逆变器与储能系统集体涨价：AI 挤占芯片如何传导至光伏跟踪控制器](https://cn.solarsurges.com/news_articles303.html)
 - [2026-11-05: 美国中期选举变局：光伏跟踪控制器供应链的政策期权与现实约束](https://cn.solarsurges.com/news_articles302.html)
 - [2026-11-03: 中国清洁能源出口创纪录：年减碳4.5亿吨下的光伏跟踪控制器](https://cn.solarsurges.com/news_articles301.html)
