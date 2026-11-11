@@ -95,6 +95,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 69
 
 ## 中文新闻
+- [2026-11-11: 光伏跟踪控制器：多晶硅期货破位与光伏股涨停的错位](https://cn.solarsurges.com/news_articles306.html)
 - [2026-11-10: 光伏跟踪控制器：中美休战两个月的边界与三个盲区](https://cn.solarsurges.com/news_articles305.html)
 - [2026-11-09: 光伏跟踪控制器：300%关税威胁与国会贸易权之争](https://cn.solarsurges.com/news_articles304.html)
 - [2026-11-06: 逆变器与储能系统集体涨价：AI 挤占芯片如何传导至光伏跟踪控制器](https://cn.solarsurges.com/news_articles303.html)
