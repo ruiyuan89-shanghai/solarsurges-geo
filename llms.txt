@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-11-12: Solar Tracker Controller Access: US Equipment Exemption vs 100GW Order](https://www.solarsurges.com/us-solar-equipment-exemption-tracker.html)
 - [2026-11-11: Solar Tracker Controller: Polysilicon Breaks Down, Solar Stocks Surge](https://www.solarsurges.com/polysilicon-breakdown-tracker-pricing.html)
 - [2026-11-10: Solar Tracker Controller: Two-Month Truce Boundaries and Blind Spots](https://www.solarsurges.com/china-us-tariff-truce-two-month-window-tracker.html)
 - [2026-11-09: Solar Tracker Controller: 300% Tariff Threat and Congress Trade Power](https://www.solarsurges.com/us-tariff-300-congress-trade-power-tracker.html)
@@ -92,7 +93,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 69
+# COUNT: 70
 
 ## 中文新闻
 - [2026-11-11: 光伏跟踪控制器：多晶硅期货破位与光伏股涨停的错位](https://cn.solarsurges.com/news_articles306.html)
