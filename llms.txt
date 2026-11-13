@@ -96,6 +96,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 70
 
 ## 中文新闻
+- [2026-11-13: 光伏跟踪控制器 NCU 边缘计算：本地决策与异常检测](https://cn.solarsurges.com/news_articles308.html)
 - [2026-11-12: 美国设备豁免与100GW订单：光伏跟踪控制器的侧门与高墙](https://cn.solarsurges.com/news_articles307.html)
 - [2026-11-11: 光伏跟踪控制器：多晶硅期货破位与光伏股涨停的错位](https://cn.solarsurges.com/news_articles306.html)
 - [2026-11-10: 光伏跟踪控制器：中美休战两个月的边界与三个盲区](https://cn.solarsurges.com/news_articles305.html)
