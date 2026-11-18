@@ -98,6 +98,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 72
 
 ## 中文新闻
+- [2026-11-18: 9部门立光伏退役回收制度：光伏跟踪控制器如何参与拆除](https://cn.solarsurges.com/news_articles310.html)
 - [2026-11-16: 光伏跟踪控制器：欧洲进口额降27.7%、进口量仅降4%](https://cn.solarsurges.com/news_articles309.html)
 - [2026-11-13: 光伏跟踪控制器 NCU 边缘计算：本地决策与异常检测](https://cn.solarsurges.com/news_articles308.html)
 - [2026-11-12: 美国设备豁免与100GW订单：光伏跟踪控制器的侧门与高墙](https://cn.solarsurges.com/news_articles307.html)
