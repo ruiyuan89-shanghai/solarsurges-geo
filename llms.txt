@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-11-20: Solar Tracker Controller: Europe's 65 GW Build vs Under 15 GW Supply](https://www.solarsurges.com/eu-china-green-tech-dependence-tracker.html)
 - [2026-11-19: Solar Tracker Controller: EU Reshoring Myth, Channel Return Real](https://www.solarsurges.com/eu-soluxtec-reshoring-channel-tracker.html)
 - [2026-11-18: China PV Decommissioning Rules: Solar Tracker Controller First](https://www.solarsurges.com/china-pv-recycling-decommissioning-tracker.html)
 - [2026-11-16: Solar Tracker Controller: EU PV Imports -27.7% Value, -4% Volume](https://www.solarsurges.com/eu-module-import-value-volume-gap-tracker.html)
@@ -97,7 +98,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 74
+# COUNT: 75
 
 ## 中文新闻
 - [2026-11-19: 光伏跟踪控制器：欧洲制造回流是伪命题，渠道回流才是真相](https://cn.solarsurges.com/news_articles311.html)
