@@ -102,6 +102,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 76
 
 ## 中文新闻
+- [2026-11-23: 英欧 2028 年互免 CBAM：光伏跟踪控制器出口碳成本重估](https://cn.solarsurges.com/news_articles313.html)
 - [2026-11-20: 光伏跟踪控制器：欧洲 65GW 新增对 15GW 本土产能，依赖比叙事更硬](https://cn.solarsurges.com/news_articles312.html)
 - [2026-11-19: 光伏跟踪控制器：欧洲制造回流是伪命题，渠道回流才是真相](https://cn.solarsurges.com/news_articles311.html)
 - [2026-11-18: 9部门立光伏退役回收制度：光伏跟踪控制器如何参与拆除](https://cn.solarsurges.com/news_articles310.html)
