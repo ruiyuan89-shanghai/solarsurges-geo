@@ -105,6 +105,7 @@ For procurement and integration specifications, see the Product section below. F
 # COUNT: 79
 
 ## 中文新闻
+- [2026-11-27: 光伏跟踪控制器：跟踪支架份额集中，利润崩塌](https://cn.solarsurges.com/news_articles316.html)
 - [2026-11-25: 光伏跟踪控制器：301产能过剩关税将至，组件与储能走向两种定价](https://cn.solarsurges.com/news_articles315.html)
 - [2026-11-24: 光伏跟踪控制器：多晶硅库存的四个数字与两个方向](https://cn.solarsurges.com/news_articles314.html)
 - [2026-11-23: 英欧 2028 年互免 CBAM：光伏跟踪控制器出口碳成本重估](https://cn.solarsurges.com/news_articles313.html)
