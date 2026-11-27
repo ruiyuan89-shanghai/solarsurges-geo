@@ -21,6 +21,7 @@ For procurement and integration specifications, see the Product section below. F
 
 ## News & Market Intelligence
 
+- [2026-11-27: Solar Tracker Controller: Consolidation in Share, Collapse in Margin](https://www.solarsurges.com/solar-tracker-consolidation-margin-squeeze.html)
 - [2026-11-25: Solar Tracker Controller: 301 Tariffs Split PV Modules and Storage](https://www.solarsurges.com/us-301-overcapacity-pv-storage-split.html)
 - [2026-11-24: Solar Tracker Controller: Four Polysilicon Inventory Readings Diverge](https://www.solarsurges.com/polysilicon-inventory-divergence.html)
 - [2026-11-23: EU-UK CBAM Exemption From 2028: Solar Tracker Controller Cost Reset](https://www.solarsurges.com/eu-uk-ets-link-cbam-solar-tracker-controller.html)
@@ -101,7 +102,7 @@ For procurement and integration specifications, see the Product section below. F
 - [2026-07-21: Philippines Becomes China's Largest Single Overseas Market for Solar PV Modules](https://www.solarsurges.com/philippines-becomes-chinas-largest-single-overseas-market-for-solar-pv-modules-.html)
 
 
-# COUNT: 78
+# COUNT: 79
 
 ## 中文新闻
 - [2026-11-25: 光伏跟踪控制器：301产能过剩关税将至，组件与储能走向两种定价](https://cn.solarsurges.com/news_articles315.html)
